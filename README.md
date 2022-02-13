@@ -28,3 +28,28 @@ after converting the file to a dataframe you will be free to use the data in pyt
 incase cumal return wont take -1 as a proper function feel free to scroll to bottom of data and retrieve last set
 
 <img width="1440" alt="Screen Shot 2022-02-13 at 8 23 45 PM" src="https://user-images.githubusercontent.com/95396568/153766958-7df9dde0-41d0-4b87-aead-e6b5f5bdc19f.png">
+
+
+
+For Voila please find attached screen shots
+
+![Screen Shot 2022-02-13 at 8 34 20 PM (2)](https://user-images.githubusercontent.com/95396568/153767234-69b5f1c8-9c74-4370-99bc-780f0b64f4ca.png)
+
+
+
+![Screen Shot 2022-02-13 at 8 34 29 PM (2)](https://user-images.githubusercontent.com/95396568/153767242-b6b7338f-5f83-40b4-9480-27ae588a3561.png)
+
+
+![Screen Shot 2022-02-13 at 8 34 39 PM (2)](https://user-images.githubusercontent.com/95396568/153767248-3dfb04e5-48c0-4268-a152-d1842df261d8.png)
+
+
+<img width="1440" alt="Screen Shot 2022-02-13 at 8 34 20 PM" src="https://user-images.githubusercontent.com/95396568/153767325-ba29725b-7403-4629-a5d8-1e6d0a4b081d.png">
+
+
+
+
+
+
+
+
+
